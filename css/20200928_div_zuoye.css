@@ -24,25 +24,30 @@ p{
     border:1px;
     width:1000px;
     background-image: url("../images/beijingtu.jpg");
-    /*background-image: url("../images/tu1.gif");*/
 }
-.div1{
-
+.div1-1{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 25px;
+}
+.span1{
+    color: blue;
+    text-decoration: underline;
 }
 .div2-1{
-height: 300px;
+    height: 300px;
 }
 .div2-2{
-height: 300px;
+    height: 300px;
 }
 .div2-3{
-height: 300px;
+    height: 300px;
 }
 .div2-4{
-height: 300px;
+    height: 300px;
 }
 .div3{
-
+    text-align: center;
 }
 .img1{
     width:150px;

@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2482b6f8-3f1f-44e8-b600-8bb8adc28cb3" name="默认的" comment="第一次提交，春晓">
-      <change afterPath="$PROJECT_DIR$/20200928_div_zuoye.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/20200928_div_zuoye.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20200928_div_zuoye.html" beforeDir="false" afterPath="$PROJECT_DIR$/20200928_div_zuoye.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/20200928_div_zuoye.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/20200928_div_zuoye.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,6 +112,8 @@
       <workItem from="1601370321131" duration="25000" />
       <workItem from="1601372272843" duration="1991000" />
       <workItem from="1601374301527" duration="3763000" />
+      <workItem from="1601537539391" duration="3000" />
+      <workItem from="1601732899475" duration="1489000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交，春晓">
       <created>1599565813416</created>
