@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2482b6f8-3f1f-44e8-b600-8bb8adc28cb3" name="默认的" comment="就这样吧">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20201008_list_1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20201008_list_2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20201012_溢出overflow.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -37,46 +36,22 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="20200928_div_zuoye.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20200928_div_zuoye.html">
+      <file leaf-file-name="20201012_fonts.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/20201012_fonts.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="57">
+              <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="20201005_link_top.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20201005_link_top.html">
+      <file leaf-file-name="20201012_溢出overflow.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/20201012_溢出overflow.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-              <folding>
-                <element signature="e#3027#3033#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="20201008_list_1.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20201008_list_1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+            <state relative-caret-position="163">
+              <caret line="14" column="30" lean-forward="false" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="20201008_list_2.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/20201008_list_2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-              <folding>
-                <element signature="e#861#867#1" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -102,6 +77,8 @@
         <option value="$PROJECT_DIR$/20201005_link_top.html" />
         <option value="$PROJECT_DIR$/20201008_list_1.html" />
         <option value="$PROJECT_DIR$/20201008_list_2.html" />
+        <option value="$PROJECT_DIR$/20201012_fonts.html" />
+        <option value="$PROJECT_DIR$/20201012_溢出overflow.html" />
       </list>
     </option>
   </component>
@@ -273,6 +250,7 @@
       <workItem from="1601794227479" duration="2220000" />
       <workItem from="1601855554642" duration="4071000" />
       <workItem from="1602136533520" duration="1807000" />
+      <workItem from="1602464321098" duration="1735000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交，春晓">
       <created>1599565813416</created>
@@ -292,7 +270,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8098000" />
+    <option name="totallyTimeSpent" value="9833000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
@@ -386,27 +364,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/20201005_link_top.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="e#3027#3033#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/20201004_link.html" />
-    <entry file="file://$PROJECT_DIR$/.idea/20201004_link.html" />
-    <entry file="file://$PROJECT_DIR$/20200928_div_zuoye.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/20201005_link_top.css" />
-    <entry file="file://$PROJECT_DIR$/20201005_link_top.html">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
           <folding>
@@ -430,6 +387,79 @@
           <folding>
             <element signature="e#861#867#1" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20200928_div_zuoye.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20201005_link_top.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="e#3027#3033#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/20201004_link.html" />
+    <entry file="file://$PROJECT_DIR$/.idea/20201004_link.html" />
+    <entry file="file://$PROJECT_DIR$/css/20201005_link_top.css" />
+    <entry file="file://$PROJECT_DIR$/20201008_list_2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding>
+            <element signature="e#861#867#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20201008_list_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20201005_link_top.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding>
+            <element signature="e#3027#3033#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20200928_div_zuoye.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20201012_溢出overflow.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="14" column="30" lean-forward="false" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20201012_fonts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
